@@ -1,3 +1,11 @@
+The ToXiiC Community is a developing one pushing to keep some of its favorite games entertaining for those
+who still wish to play it. Keeping old plugins up to date and creating new ones for those in need
+at responible prices; if a payment is required at all.
+
+If you interested in joining our communiy or just need help with one of our plugins
+join our discord at http://discord.toxiic.net !
+
+---------------------------------------------------------------------------------
 Placeholders (Must have PlaceholderAPI installed)
 Messages.yml:
 %playerrank || Player's rank.
