@@ -1,0 +1,19 @@
+name: ToXiiCRanks
+version: 1.0.1
+description: Custom Rankup Plugin.
+author: ToXiiCxNetwork
+authors: [ToXiiCxNetwork]
+
+main: net.toxiic.ranks.Main
+database: false
+depend: [Vault, PlaceholderAPI]
+
+commands:
+  Rankup:
+    description: Rank up if you have enough money.
+    aliases: [ru]
+  Ranks:
+    description: Lists ranks.
+    aliases: [rank]
+  Prestige:
+    description: Prestige to next prestige.
