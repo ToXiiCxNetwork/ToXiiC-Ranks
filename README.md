@@ -5,6 +5,7 @@ at responible prices; if a payment is required at all.
 If you interested in joining our communiy or just need help with one of our plugins
 join our discord at http://discord.toxiic.net
 
+
 ---------------------------------------------------------------------------------
 Placeholders (Must have PlaceholderAPI installed)
 Messages.yml:
